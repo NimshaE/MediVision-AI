@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e76c6af7-b319-464f-810a-754b3c10bbdb" name="Changes" comment="" />
+    <list default="true" id="e76c6af7-b319-464f-810a-754b3c10bbdb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddetect_django/ddetect_django/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ddetect_django/ddetect_django/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddetect_vue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ddetect_vue/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddetect_vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ddetect_vue/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddetect_vue/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ddetect_vue/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddetect_vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ddetect_vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ddetect_vue/src/views/HomeView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ddetect_vue/src/views/HomeView.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
